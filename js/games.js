@@ -1,5 +1,5 @@
 const games = [
-    { name: "Vex 8", image: "image/slope.png", description: "Endless Runner", link: "/vex-8.html", category: "Arcade,Action" },
+    { name: "Vex 8", image: "image/vex-8.png", description: "Endless Runner", link: "/vex-8.html", category: "Arcade,Action" },
 
 ];
 
